@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+#-I'm currently enrolled in Microverse Fulltime and i'm currently learning to build projects.
+#-This project is a personal portfolio, i will be building and improving on the go
+#- I'm open to contribution
