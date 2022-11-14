@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <p align="center"><a href=""><img src="https://user-images.githubusercontent.com/93039359/178105049-35adc21b-9e3b-4ab6-a490-290cffbd5d01.jpeg" height="250" width="900"></a></p>
 
 
